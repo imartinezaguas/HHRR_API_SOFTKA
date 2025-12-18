@@ -1,0 +1,15 @@
+.idea/
+.vscode/
+bin/
+obj/
+*.user
+*.suo
+*.pdb
+*.cache
+*.dll
+*.exe
+*.log
+.DS_Store
+TestResults/
+coverage/
+coverage-report/
