@@ -28,9 +28,11 @@ Nos esforzamos por mantener una alta calidad de código y cobertura de pruebas. 
 ## 🛠️ Comenzando
 
 1.  Clona el repositorio.
-2.  Navega al directorio `src/RRHH`.
-3.  Configura tu cadena de conexión en `RRHH.API/appsettings.json`.
-4.  Ejecuta la aplicación:
+2.  Abre tu base de datos y ejecuta el script de creación de la base de datos.
+3.  Navega al directorio `src/RRHH`.
+4.  Configura tu cadena de conexión en `RRHH.API/appsettings.json`.
+5.  Configura tu puerto para comunicación con el frontend en `RRHH.API/appsettings.json`.
+6.  Ejecuta la aplicación:
     ```bash
     dotnet run --project RRHH.API
     ```
