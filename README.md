@@ -21,7 +21,7 @@ La solución está dividida en los siguientes proyectos:
 
 ## 📊 Cobertura de Código
 
-Nos esforzamos por mantener una alta calidad de código y cobertura de pruebas. A continuación se muestra el informe de cobertura actual:
+Alta calidad de código y cobertura de pruebas. A continuación se muestra el informe de cobertura actual:
 
 ![Informe de Cobertura de Código](src/RRHH/assets/coverage_report.png)
 
